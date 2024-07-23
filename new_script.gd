@@ -11,5 +11,3 @@ func _process(delta):
 	pass
 
 
-func _fuck():
-	pass
