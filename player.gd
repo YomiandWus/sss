@@ -13,7 +13,7 @@ func _physics_process(delta):
 	
 	if input_dir != Vector2.ZERO:
 		velocity = input_dir * speed
-	
+		
 	
 	else:
 		velocity= Vector2.ZERO
